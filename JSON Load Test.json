@@ -1,7 +1,7 @@
 {
-	"listPurpose" : "Test",
+	"listPurpose" : "Spell List",
 	"spellSort" : "Test Assortment",
-	"spellTotal" : "Four Spells",
+	"spellTotal" : "Three Spells",
 	"spellName" : [
 		{
 			"name" : "Acid Splash",
