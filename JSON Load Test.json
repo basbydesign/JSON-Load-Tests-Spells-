@@ -1,4 +1,7 @@
 {
+	"listPurpose" : "test"
+	"spellSort" : "Test Assortment"
+	"spellTotal" : "Four Spells"
 	"spells" : [
 	{
 		"name" : "Acid Splash"
