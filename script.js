@@ -1,6 +1,6 @@
 async function populate() {
   const requestURL =
-    "https://raw.githubusercontent.com/basbydesign/JSON-Load-Tests-Spells-/main/JSON%20Load%20Test.json?token=GHSAT0AAAAAACKMRYF7PZMC2ABR55JKTUUGZLOCAZA&_sm_au_=iVVP4mSWrr5MH4DQVc3KjK0BkWQp0;
+    "https://raw.githubusercontent.com/basbydesign/JSON-Load-Tests-Spells-/main/JSON%20Load%20Test.json?token=GHSAT0AAAAAACKMRYF7PZMC2ABR55JKTUUGZLOCAZA&_sm_au_=iVVP4mSWrr5MH4DQVc3KjK0BkWQp0";
   const request = new Request(requestURL);
 
   const response = await fetch(request);
