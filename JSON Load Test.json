@@ -2,7 +2,7 @@
 	"listPurpose" : "Spell List",
 	"spellSort" : "Test Assortment",
 	"spellTotal" : "Four Spells",
-	"spellName" : 
+	"spellName" : [
 		{
 			"name" : "TEST TEST TEST TEST TEST TEST",
 			"source" : "TEST TEST TEST TEST TEST TEST",
