@@ -1,0 +1,89 @@
+/* || general styles */
+
+html {
+	font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  	width: auto;
+  	margin: 4px;
+ 
+}
+
+
+/* header styles */
+
+h1, h2, h4 {
+  	text-align: center;
+}
+
+header p {
+  	font-weight: bold;
+  	text-align: center;
+}
+
+/* section styles */
+
+section article {
+  	border-style: solid;
+  	max-width: 450px;
+	height: 750px;
+  	float: left;
+  	margin: 5px;
+
+}
+
+section p {
+	margin: 0px;
+	padding: 2px;
+}
+
+/*specific styling by class name*/
+
+.spellBox {
+
+}
+.spellName {
+	height: auto;
+
+}
+.spellDuration, .spellComponents {
+	border-bottom-style: solid;
+}
+.spellCastingTime, .spellDuration {
+	border-top-style: solid;
+	border-right-style: solid;
+	margin-top: 0px;
+	float: left;
+	width: 218.5px;
+	height: 45px;
+}
+.spellRange, .spellComponents {
+	border-top-style: solid;
+	margin-top: 0px;
+	float: left;
+	width: 220.5px;
+	height: 45px;
+}
+.spellMaterials {
+	border-bottom-style: solid;
+	float: left;
+	width: 445.5px;
+	height: 45px;
+}
+.spellDescription {
+	float: left:
+	width: 439px;
+	height: 660px;
+	text-align: justify;
+	padding: 2.5px;
+
+}
+.spellCasterList {
+	border-top-style: solid;
+
+}
+.spellSchool {
+	border-top-style: solid;
+	text-align: right;
+}
